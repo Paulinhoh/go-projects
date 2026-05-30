@@ -2,6 +2,8 @@
 
 Uma aplicação em Go que consome dados de clima de uma API de terceiros e implementa cache com Redis para otimizar as requisições.
 
+![img](https://assets.roadmap.sh/guest/weather-api-f8i1q.png)
+
 ## 📋 Índice
 
 - [Visão Geral](#visão-geral)
